@@ -11,7 +11,7 @@ constexpr int dimension = 128;
 constexpr int exponential = 8;
 constexpr int maxIteration = 20;
 constexpr int vectorScale = 50;
-constexpr float pointRadius = 0.5f;
+constexpr float pointRadius = 0.25f;
 constexpr float pi = 3.1415926535f;
 
 }  // namespace constants
