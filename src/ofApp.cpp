@@ -52,11 +52,11 @@ void ofApp::setup() {
 }
 
 void ofApp::update() {
-  for (auto &vec : mandelbulb) {
-    vec.x -= 0.005;
-    vec.y += 0.005;
-    vec.z += 0.05;
-  }
+  // for (auto &vec : mandelbulb) {
+  //   vec.x -= 0.005;
+  //   vec.y += 0.005;
+  //   vec.z += 0.05;
+  // }
 }
 
 void ofApp::draw() {
