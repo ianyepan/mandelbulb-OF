@@ -7,7 +7,7 @@ void ofApp::setup() {
   ofSetColor(ofColor::black);
   ofSetWindowPosition(ofGetScreenWidth() / 2 - ofGetWindowWidth() / 2,
                       ofGetScreenHeight() / 2 - ofGetWindowHeight() / 2);
-  easyCam.setPosition(30, 0, 220);  // initial cam position
+  easyCam.setPosition(0, 0, 220);  // initial cam position
   auto n = constants::exponential;
 
   for (int i = 0; i < constants::dimension; ++i) {
