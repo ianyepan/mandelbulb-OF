@@ -11,6 +11,7 @@ angles. You can also use the mouse wheel to zoom in/out.
 
 #### Relevant references: 
 
+- https://www.skytopia.com/project/fractal/2mandelbulb.html#formula
 - https://www.youtube.com/watch?v=NJCiUVGiNyA
 - https://www.skytopia.com/project/fractal/mandelbulb.html
 - https://www.skytopia.com/project/fractal/2mandelbulb.html
